@@ -8,6 +8,7 @@ void bitonic_sort(int *array, size_t size);
 
 /**
  * swap_ints - function that swaps two integers in an array
+ *
  * @a: 1st integer
  * @b: 2nd integer
  */

@@ -6,8 +6,10 @@ void radix_sort(int *array, size_t size);
 
 /**
  * get_max - function that gets the maximum value in an array of integers
+ *
  * @array: array of integers
  * @size: the size of the array
+ *
  * Return: the maximum integer in the array
  */
 

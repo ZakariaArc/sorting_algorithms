@@ -8,6 +8,7 @@ void sort_deck(deck_node_t **deck);
 
 /**
  * _strcmp - function that compares two strings
+ *
  * @s1: 1st string to be compared
  * @s2: 2nd string to be compared
  *
@@ -31,7 +32,9 @@ int _strcmp(const char *s1, const char *s2)
 
 /**
  * get_value - function that gets the numerical value of a card
+ *
  * @card: the pointer to a deck_node_t card
+ *
  * Return: The numerical value of the card
  */
 
